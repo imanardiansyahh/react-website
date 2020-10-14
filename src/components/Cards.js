@@ -2,7 +2,7 @@ import React from "react";
 import CardItem from "./CardItem";
 import "./Cards.css";
 
-// 1.12.01 creating the card component 
+
 
 function Cards() {
   return (
